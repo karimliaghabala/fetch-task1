@@ -1,0 +1,12 @@
+.container{
+    background-color: grey;
+    text-align: center;
+}
+button{
+    background-color: aqua;
+    font-size: 18px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: blueviolet;
+}
